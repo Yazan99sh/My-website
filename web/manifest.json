@@ -1,0 +1,23 @@
+{
+    "name": "yazan_web",
+    "short_name": "yazan_web",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A personal Website",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icons-192.png",
+            "sizes": "132x112",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icons-512.png",
+            "sizes": "132x112",
+            "type": "image/png"
+        }
+    ]
+}
